@@ -3,7 +3,7 @@
   <mail>
     <server value="smtp.mail.ru"/>
     <port value="465"/>
-    <mail value="pavlov_aleksei@list.ru"/>
-    <password value="kniazaleksey"/>
+    <mail value="name@mail.ru"/>
+    <password value="password"/>
   </mail>
 </root>
